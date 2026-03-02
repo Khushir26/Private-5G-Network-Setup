@@ -101,7 +101,7 @@ The USRP B210 is an SDR (Software Defined Radio) — hardware that transmits and
 
 ---
 
-## Architecture Overview
+## 🏗️ Architecture Overview
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
